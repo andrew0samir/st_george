@@ -1,1 +1,3 @@
-"# st_george"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:andrew0samir/st_george.git git push -u origin main
+# st_george
+st george web page 
+
