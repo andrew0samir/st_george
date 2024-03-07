@@ -1,0 +1,86 @@
+a{
+    text-decoration: none;
+}
+.home{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.layer{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.w-90{
+    width: 90%;
+}
+.navbar{
+    z-index: 999 !important;
+    background-color: #ffffff;
+    box-shadow: 0px 30px 50px rgb(0 0 0 / 5%);
+}
+.navbar-brand{
+    font-size: 18px ;
+    font-weight: 800;
+}
+.home .nav-link{
+    color: #111111;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand {
+    color: #1c1c1c;
+
+}
+.home-content{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.home-content h5{
+    font-size: 50px ;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.home-content h1 {
+    font-size: 44px  ;
+    padding: 8px 0px ;
+}
+.social-icon{
+    margin-top: 30px  ;
+}
+.social-icon i  {
+    color: white;
+    font-size: 14px ;
+    width: 40px ;
+    height: 40px ;
+    line-height: 40px ;
+    border-radius: 50%;
+    background-color:rgba(0, 0, 0, 0.5) ;
+}
+.social-icon i:hover  {
+    color: #eee;
+    background-color: black;
+}
+
+/* end home slide */
+/* -------------------------------------------- */
+/* start of info slide  */
+
+.info{
+    background-color: #555;
+}
+
+
+/* end of info slide  */
+/* ---------------------------------------- */
+/* start of footer */
+
+footer{
+    background-color: #1c1c1c;
+    padding: 30px;
+}
+footer p{
+    font-size: 14px;
+    word-spacing: 2px ;
+    color: #748182;
+}
+
+/* end of footer  */
